@@ -24,3 +24,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# cred files 
+Credentials/*
+# firebaseCred.json
